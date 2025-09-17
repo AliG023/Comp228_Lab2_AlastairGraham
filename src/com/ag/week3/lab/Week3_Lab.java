@@ -1,6 +1,12 @@
 package com.ag.week3.lab;
 import java.security.SecureRandom;
 
+/**
+ * @author Alastair Graham
+ * @since 09/17/2025
+ * 
+ */
+
 public class Week3_Lab {
 
 	public static void main(String[] args) {
